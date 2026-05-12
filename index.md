@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-Prep4Inburgering ("the App") is a Dutch language learning app designed to help Highly Skilled Migrants (HSMs) prepare for inburgering (civic integration) in the Netherlands. This privacy policy explains how the App handles your information.
+Prep4Inburgering ("the App") is a Dutch language learning app designed to prepare for inburgering (civic integration) in the Netherlands. This privacy policy explains how the App handles your information.
 
 ---
 
