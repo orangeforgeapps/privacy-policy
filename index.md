@@ -79,8 +79,7 @@ If the App is updated with features that change how data is handled, this privac
 
 If you have any questions about this privacy policy, please contact us:
 
-**Email:** orangeforge.apps@gmail.com  
-**GitHub:** https://github.com/minhquan-hcmut/InburgeringReady
+**Email:** orangeforge.apps@gmail.com
 
 ---
 
