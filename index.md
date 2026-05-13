@@ -9,7 +9,11 @@
 
 ## 1. Introduction
 
-Prep4Inburgering ("the App") is a Dutch language learning app designed to prepare for inburgering (civic integration) in the Netherlands. This privacy policy explains how the App handles your information.
+Prep4Inburgering ("the App") is a Dutch language learning app designed to help people prepare for inburgering (civic integration) in the Netherlands.
+
+This app is independently developed by OrangeForge and is not affiliated with the Dutch government or any official inburgering program. For official inburgering information, visit: www.inburgeren.nl
+
+This privacy policy explains how the App handles your information.
 
 ---
 
